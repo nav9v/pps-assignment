@@ -1,4 +1,5 @@
-# pps-assingment-1-2
+# pps assingment : 1, 2
  Dump
 
- ## programming for problem solving in c
+ ## BTPS102-18 : Programming for Problem Solving in C
+IKGPTU
